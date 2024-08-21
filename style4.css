@@ -1,0 +1,84 @@
+
+
+header{
+position: relative;
+
+
+}
+
+.link {
+    color: rgb(201, 56, 56);
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    padding: 5px;
+    left: 40%;
+    top: 40px;
+    background: linear-gradient(to right, rgb(61, 29, 29), rgb(96, 96, 96));
+
+}
+h1{
+    position: relative;
+    top: px;
+    font-size: 110px;
+    color: rgb(203, 71, 71);
+    text-align: center;
+    z-index: 1;
+    width: auto;
+
+}
+.bckimg{
+    width:  100%;
+    position: relative;
+    bottom: 300px;
+    z-index: -1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 30%;
+}
+body {
+    background-color: rgb(51, 25, 25);
+}
+.about {
+    position: absolute;
+    top: 250px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: auto;
+    margin-left: 40px;
+    color: rgb(239, 75, 75);
+    font-weight: bold;
+    left: 50%;
+}
+.background {
+    position: absolute;
+    top: 285px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 40px;
+    color: rgb(236, 64, 64);
+    left: 50%;
+    margin-right: 40px;
+}
+.menu {
+    color: rgb(223, 80, 80);
+    position: absolute;
+    top: 300px;
+    font-size: auto;
+    border: solid gray 7px;
+    padding: 10px;
+    left: 25%;
+}
+.coffeecup {
+    position: relative;
+    left: 75%;
+
+
+}
+.guitar {
+    position: relative;
+    left: 75%;
+
+   
+}
